@@ -10,17 +10,11 @@ One of the benefits of working at EY is Udemy for Business. I decided to enroll 
 - ✅ **Strategy:** Lift and Shift.
 
 ### Scenario:
-
-In this project:
-
 - 👩🏽‍💻 Application services were running on physical/virtual machines.
 - 👩🏽‍💻 Workload was residing in our datacenter.
 - 👩🏽‍💻 Multiple teams were collaborating around the cloud, including the Virtualization team, Data Center Operations team, Monitoring team, and Sysadmin team.
 
 ### Challenges:
-
-Here are the problems we addressed:
-
 - ❌ **Complex Management:** Dealing with services and teams was a challenge.
 - ❌ **Scaling Complexity:** Frequent scale up/down requirements.
 - ❌ **Cost Structure:** Upfront CapEx and regular OpEx.
@@ -29,9 +23,6 @@ Here are the problems we addressed:
 - ❌ **Time-Consuming:** Processes were taking too much time.
 
 ### Solution:
-
-We implemented the following solutions:
-
 - ✅ **Cloud Setup:** Transformed to a cloud-based infrastructure.
 - ✅ **Pay-as-You-Go:** Flexible cost structure.
 - ✅ **IAAS:** Infrastructure as a Service.
@@ -40,8 +31,6 @@ We implemented the following solutions:
 - ✅ **Automation:** Reduced human errors through automation.
 
 ### Leveraging AWS Services:
-
-Our objectives included:
 
 - 🎯 **Flexible Infrastructure:** Adapt to changing demands.
 - 🎯 **Cost Efficiency:** Eliminated upfront costs.
@@ -57,9 +46,6 @@ Our objectives included:
 - ☁️ **Route 53:** Private DNS Service.
 
 ### Flow of Execution:
-
-Here is a brief overview of the execution steps:
-
 1. ⏭️ **Login to AWS Account**
 2. ⏭️ **Create Key Pairs**
 3. ⏭️ **Create Security Groups**
@@ -72,17 +58,20 @@ Here is a brief overview of the execution steps:
 10. ⏭️ **Map ELB Endpoint with Website Name in Godaddy DNS**
 11. ⏭️ **Verify**
 
-### Project Endpoint:
-
-Visit the project at [http://vprofileapp.devopsengineerprojects.com/](http://vprofileapp.devopsengineerprojects.com/)
-
 ### GitHub Repository:
 
-Find the project's code repository on GitHub: [https://github.com/jeraldinnemg/vprofile-project-2](https://github.com/jeraldinnemg/vprofile-project-2)
+[GitHub repo](https://github.com/jeraldinnemg/vprofile-project-2)
 
 ### Udemy Course:
+[DevOps Projects | 20 Real-Time DevOps Projects](https://www.udemy.com/course/devopsprojects/)
 
-Explore the Udemy course that inspired this project: [DevOps Projects | 20 Real-Time DevOps Projects](https://www.udemy.com/course/devopsprojects/)
+
+## Automated Provisioning of the infrastructure evidence.
+
+![Web app login](images/vprofile.png)
+![Users](images/users.png)
+![Db](images/cache.png)
+![RabbitMQ](images/rabbit.png)
 
 # Prerequisites
 #
