@@ -60,7 +60,7 @@ One of the benefits of working at EY is Udemy for Business. I decided to enroll 
 
 ### GitHub Repository:
 
-[GitHub repo](https://github.com/jeraldinnemg/vprofile-project-2)
+[https://github.com/jeraldinnemg/vprofile-project-2](https://github.com/jeraldinnemg/vprofile-project-2)
 
 ### Udemy Course:
 [DevOps Projects | 20 Real-Time DevOps Projects](https://www.udemy.com/course/devopsprojects/)
