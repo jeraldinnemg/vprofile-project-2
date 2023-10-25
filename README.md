@@ -66,6 +66,9 @@ One of the benefits of working at EY is Udemy for Business. I decided to enroll 
 [DevOps Projects | 20 Real-Time DevOps Projects](https://www.udemy.com/course/devopsprojects/)
 
 
+## Ingrastructure Architecture Diagram (IAD)
+![IAD](images/AWS-Project2-Diagram.drawio.png)
+
 ## Automated Provisioning of the infrastructure evidence.
 
 ![Web app login](images/vprofile.png)
